@@ -1,0 +1,9 @@
+rootProject.name = 'ksqlUDF_'
+include 'sumTest_UDF'
+include 'diffTest_UDF'
+include 'convertInrYen_UDF'
+include 'diffTest_UDF'
+include 'cnvrtCURR_UDF'
+include 'APSPEED_UDF'
+include 'APSPEED_VIOLATION_CHECK'
+

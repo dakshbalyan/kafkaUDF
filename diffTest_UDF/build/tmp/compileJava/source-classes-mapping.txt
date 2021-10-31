@@ -1,0 +1,2 @@
+diffTestUDF/udf_diffTest.java
+ diffTestUDF.udf_diffTest
